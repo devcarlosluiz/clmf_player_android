@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clmf_background">#0A0E14</color>
+    <color name="clmf_surface">#141A24</color>
+    <color name="clmf_primary">#1E88E5</color>
+    <color name="clmf_accent">#00E5FF</color>
+</resources>

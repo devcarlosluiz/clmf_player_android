@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Kotlin
+.kotlin/
+
+# Generated files
+.externalNativeBuild/
+.cxx/
+
+# APK
+*.apk
+*.aab
+
+# Keystore
+*.jks
+*.keystore
